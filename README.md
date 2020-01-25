@@ -23,3 +23,5 @@ I am going to pull this fix file second time
 >>>>>>> 2d641e8167728bdf08a2ab8e3f9b316f1349b658
 
 i am going to pull the master branch and merge it with my local repository in my local computer.
+
+now i am going to push this master branch file to my remote repository after thrid pull.
