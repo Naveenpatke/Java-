@@ -6,4 +6,5 @@ This is my first commit when i updated the readme file for the first time.
 =======
 I have fixed the bugs in the project,do reflect this in the master branch.
 >>>>>>> origin/fix
+
 This code was fixed by NAveenPatke
