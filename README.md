@@ -25,3 +25,6 @@ I am going to pull this fix file second time
 i am going to pull the master branch and merge it with my local repository in my local computer.
 
 now i am going to push this master branch file to my remote repository after thrid pull.
+
+This is a turtorial to teach git.
+author harshith.
